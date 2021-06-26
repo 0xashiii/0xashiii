@@ -10,15 +10,13 @@ Here are some ideas to get you started:
   <h1 align="center"><b>Hello there, I'm Ashik Eswar N 👋</b></h1>
 </p>
 
-
 <p align="center">
+<br>
 
 <a href="https://www.instagram.com/0xashiiii/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ashik-eswar-n-6892991b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
  
-<br>
-
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently studying on RMKEC
