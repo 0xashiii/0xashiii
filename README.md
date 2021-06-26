@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Let's get in touch! [LinkedIn](https://www.linkedin.com/in/ashik-eswar-n-6892991b0/)
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
+<br>
+
 ![0xashiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xashiii&theme=midnight-purple&show_icons=true)
