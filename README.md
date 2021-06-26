@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Languages and Tools: 
 
 <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
+<img align="left" alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-E32934?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-F16529?style=flat-square&logo=HTML5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white" />
