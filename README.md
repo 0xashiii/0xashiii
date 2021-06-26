@@ -13,15 +13,16 @@ Here are some ideas to get you started:
 
 <p align="center">
 <br>
+  
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <a href="https://www.instagram.com/0xashiiii/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ashik-eswar-n-6892991b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xashiii.png" alt="TryHackMe" height="38px" width="200px">
 </p>
  
 <br>
 
 - 🔭 I’m currently studying on RMKEC
-- 🌱 Multiple Dimensions of the field
+- 🌱 I’m currently learning Everything🤣
 - 👯 I’m looking to collaborate with other Web Developers and security researchers
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything, I am happy to help :smile:
