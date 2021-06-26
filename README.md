@@ -32,4 +32,20 @@ Here are some ideas to get you started:
 
 <br>
 
+### Languages and Tools: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![0xashiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xashiii&theme=midnight-purple&show_icons=true)
